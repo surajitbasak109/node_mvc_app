@@ -1,0 +1,16 @@
+{
+  "name": "mvc_app",
+  "version": "1.0.0",
+  "description": "Simple MVC APP can become modern Web app.",
+  "main": "public/index.js",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "public/test.js"
+  },
+  "keywords": ["mvc", "node", "mvc model"],
+  "author": "Surajit Basak",
+  "license": "ISC"
+}
